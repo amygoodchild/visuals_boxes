@@ -1,12 +1,11 @@
 # visuals_boxes
 
-Visuals coded in Processing, using 3D boxes.
+This project has two parts. 
 
-Variables are controlled by sending messages over serial from an arduino controlled button pad. 
+Visuals coded in Processing, using 3D boxes. Found in the buttons_cubes folder.
 
-Serialbuttons folder contains the Arduino code.      
+An arduino controlled button pad. Code found in the serialbuttons folder. 
 
-Buttons_cubes contains the Processing code.
+Messages are sent over a serial connection from the Arduino code to the Processing code. The button presses control various variables in the Processing sketch. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-yTRgr_Z58Y
-" target="_blank">Watch YouTube video</a>
+<a href="https://www.youtube.com/watch?v=yf9DTUuDbzg" target="_blank">Watch YouTube video</a>
